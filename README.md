@@ -54,3 +54,5 @@ bench_pp_tg.py       Benchmark
 ---
 
 MIT · [Lucebox](https://lucebox.com)
+
+Built with [Claude](https://claude.ai)
